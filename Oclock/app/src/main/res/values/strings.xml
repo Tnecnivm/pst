@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TheRealMvp</string>
+    <string name="message_intro">Bienvenue sur Olock, votre réveil exclusivement esiearque ! ;)</string>
+    <string name="intro_1">Pst 2A Produit par : </string>
+    <string name="intro_2">Coutard Christopher</string>
+    <string name="intro_3">Losco Yoann</string>
+    <string name="intro_4">Monnerie Vincent</string>
+    <string name="intro_5">Themista Yoan</string>
+    <string name="o_clock">O\'Clock</string>
+    <string name="setting_1">Temps de préparation :</string>
+    <string name="setting_2">Minutes</string>
+    <string name="home_1">Semaine du :</string>
+    <string name="Date_semaine">XX Mai 2018</string>
+    <string name="home_2_reveil">Les réveils programmés cette semaine sont :</string>
+    <string name="home_lundi">Lundi</string>
+    <string name="heure_lundi">Lundi Heure</string>
+    <string name="home_mardi">Mardi</string>
+    <string name="home_mercredi">Mercredi</string>
+    <string name="home_jeudi">Jeudi</string>
+    <string name="home_vendredi">Vendredi</string>
+    <string name="heure_mardi">Mardi heure</string>
+    <string name="heure_mercredi">Mer Heure</string>
+    <string name="heure_jeudi">Jeudi heure</string>
+    <string name="heure_vendredi">Vendredi heure</string>
+    <string name="button_voir_cours">Voir les cours</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="numrue">numéro de rue</string>
+    <string name="boulevard">rue/boulevard/avenue</string>
+    <string name="name_rue">nom de la rue</string>
+    <string name="postal">Code postal</string>
+    <string name="Prep">Temps de préparation ( en minutes)</string>
+</resources>
